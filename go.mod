@@ -1,4 +1,4 @@
-module github.com/hellofresh/logging-go
+module github.com/apageadev/logging-go
 
 go 1.14
 
